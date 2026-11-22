@@ -5,6 +5,7 @@
     "target": "es2025",
     "strict": true,
     "esModuleInterop": true,
-    "ignoreDeprecations": "6.0"
+    "ignoreDeprecations": "6.0",
+    "useUnknownInCatchVariables": false
   }
 }
